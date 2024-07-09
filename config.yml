@@ -1,0 +1,7 @@
+# Configuración del plugin de Staff Invisibility
+
+item:
+  name: "&aActivar Invisibilidad"  # Nombre del ítem de invisibilidad activada
+  type: "GRAY_DYE"                 # Tipo del ítem de invisibilidad (Material)
+  enabled_name: "&cDesactivar Invisibilidad"  # Nombre del ítem de invisibilidad desactivada
+  enabled_type: "LIME_DYE"         # Tipo del ítem de invisibilidad desactivada
